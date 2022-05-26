@@ -10,14 +10,14 @@ with open(path.join(this_directory, r'README'), encoding='utf-8') as f:
 setup(
     name = 'mydatau',
     packages = ['mydatau'],
-    version = '0.0.1',
+    version = '0.0.2',
     license = 'MIT',
     description = 'Expandable module of statistical data utilities',
     long_description=readme_text,
     author = 'econcz',
     author_email = '29724411+econcz@users.noreply.github.com',
     url = 'https://github.com/econcz/mydatau',
-    download_url = 'https://github.com/econcz/mydatau/archive/pypi-0_0_1.tar.gz',
+    download_url = 'https://github.com/econcz/mydatau/archive/pypi-0_0_2.tar.gz',
     keywords = [
         'statistical data', 'utilities', 'Jupyter', 'R', 'Stata', 'Julia',
         'Octave'
