@@ -1,1 +1,0 @@
-from mydatau.mydatau import autorun                    # main function
