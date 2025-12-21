@@ -1,6 +1,6 @@
 [project]
 name = "pydatau"
-version = "1.0.6"
+version = "1.0.8"
 description = "Batch Statistical Data Utilities"
 readme = "README.md"
 requires-python = ">=3.10"
